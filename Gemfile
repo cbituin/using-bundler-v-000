@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "rspec"
-gem "sinatra", '>= 2.2.0'
+gem "sinatra", 
 gem "hashie"
  
 group :development do
