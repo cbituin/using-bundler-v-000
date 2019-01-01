@@ -9,6 +9,7 @@ group :development do
 gem "pry"
 end
 
+gem 'rspec', :group => :test
 # hashie
 # sinatra
 # octokit
